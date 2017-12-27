@@ -12,9 +12,9 @@ N_CLUSTERS = 5
 
 CLIENT_ID = ''
 CLIENT_SECRET = ''
-REDIRECT_URI = 'http://localhost/'
+username = ''
 
-username = 'aleksiy123'
+REDIRECT_URI = 'http://localhost/'
 scope = 'user-library-read playlist-read-private playlist-modify-private'
 token = util.prompt_for_user_token(username, scope, client_id=CLIENT_ID, client_secret=CLIENT_SECRET, redirect_uri=REDIRECT_URI)
 
