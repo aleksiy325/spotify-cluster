@@ -1,4 +1,4 @@
-#Spotify-Cluster
+# Spotify-Cluster
 
 A simple script that clusters your Spotify library into multiple playlists using Spotify audio features. 
 
